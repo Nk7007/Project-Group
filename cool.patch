@@ -1,0 +1,209 @@
+diff --git a/.file.txt.swm b/.file.txt.swm
+new file mode 100644
+index 0000000..c3a5470
+Binary files /dev/null and b/.file.txt.swm differ
+diff --git a/.file.txt.swn b/.file.txt.swn
+new file mode 100644
+index 0000000..09ec3ea
+Binary files /dev/null and b/.file.txt.swn differ
+diff --git a/.file.txt.swo b/.file.txt.swo
+new file mode 100644
+index 0000000..cf16079
+Binary files /dev/null and b/.file.txt.swo differ
+diff --git a/.file.txt.swp b/.file.txt.swp
+new file mode 100644
+index 0000000..b80c995
+Binary files /dev/null and b/.file.txt.swp differ
+diff --git a/.navaneeth.txt.swp b/.navaneeth.txt.swp
+new file mode 100644
+index 0000000..eb37cb8
+Binary files /dev/null and b/.navaneeth.txt.swp differ
+diff --git a/20CSR126.txt b/20CSR126.txt
+index 3efe930..2aef84d 100644
+--- a/20CSR126.txt
++++ b/20CSR126.txt
+@@ -1,5 +1,5 @@
++
+ mowligha
+ 20csr126
+ cse c
+ mowlighas.20cse@kongu.edu
+-kongu engineering college
+diff --git a/20CSR127.txt b/20CSR127.txt
+index 9fabe37..33b344f 100644
+--- a/20CSR127.txt
++++ b/20CSR127.txt
+@@ -1,3 +1,4 @@
+ 20CSR127
+ MUHAMMEDASHRAF S
+-
++muhammedashrafs.20cse@kongu.edu
++9629689774
+diff --git a/20CSR153.txt b/20CSR153.txt
+new file mode 100644
+index 0000000..c7cb703
+--- /dev/null
++++ b/20CSR153.txt
+@@ -0,0 +1,3 @@
++20CSR153
++PRAVEEN P
++KECS
+\ No newline at end of file
+diff --git a/20csr131.txt b/20csr131.txt
+index 65810c8..024d3ba 100644
+--- a/20csr131.txt
++++ b/20csr131.txt
+@@ -1,4 +1,5 @@
+ hi
+ how r u
+ im fine
++kongu engineering college
+ 
+diff --git a/Images/git_status_command.png b/Images/git_status_command.png
+new file mode 100644
+index 0000000..b69b5f7
+Binary files /dev/null and b/Images/git_status_command.png differ
+diff --git a/ashraf.patch b/ashraf.patch
+deleted file mode 100644
+index a0f2a3d..0000000
+--- a/ashraf.patch
++++ /dev/null
+@@ -1,7 +0,0 @@
+-diff --git a/20CSR130.txt b/20CSR130.txt
+-new file mode 100644
+-index 0000000..f425af9
+---- /dev/null
+-+++ b/20CSR130.txt
+-@@ -0,0 +1 @@
+-+qw
+diff --git a/file.txt b/file.txt
+new file mode 100644
+index 0000000..e69de29
+diff --git a/mowligha.patch b/mowligha.patch
+new file mode 100644
+index 0000000..f57638a
+--- /dev/null
++++ b/mowligha.patch
+@@ -0,0 +1,26 @@
++diff --git a/.file.txt.swm b/.file.txt.swm
++deleted file mode 100644
++index c3a5470..0000000
++Binary files a/.file.txt.swm and /dev/null differ
++diff --git a/.file.txt.swn b/.file.txt.swn
++deleted file mode 100644
++index 09ec3ea..0000000
++Binary files a/.file.txt.swn and /dev/null differ
++diff --git a/.file.txt.swo b/.file.txt.swo
++deleted file mode 100644
++index cf16079..0000000
++Binary files a/.file.txt.swo and /dev/null differ
++diff --git a/.file.txt.swp b/.file.txt.swp
++deleted file mode 100644
++index b80c995..0000000
++Binary files a/.file.txt.swp and /dev/null differ
++diff --git a/.navaneeth.txt.swp b/.navaneeth.txt.swp
++deleted file mode 100644
++index eb37cb8..0000000
++Binary files a/.navaneeth.txt.swp and /dev/null differ
++diff --git a/file.txt b/file.txt
++deleted file mode 100644
++index e69de29..0000000
++diff --git a/navaneeth.txt b/navaneeth.txt
++deleted file mode 100644
++index e69de29..0000000
+diff --git a/navaneeth.txt b/navaneeth.txt
+new file mode 100644
+index 0000000..e69de29
+diff --git a/neeraj.patch b/neeraj.patch
+new file mode 100644
+index 0000000..6ae176c
+--- /dev/null
++++ b/neeraj.patch
+@@ -0,0 +1,20 @@
++diff --git a/20CSR133.txt b/20CSR133.txt
++deleted file mode 100644
++index 52c9d7b..0000000
++--- a/20CSR133.txt
+++++ /dev/null
++@@ -1,4 +0,0 @@
++-git class is going on
++-hello
++-welcome
++-what are you doing?
++diff --git a/20CSR140.txt b/20CSR140.txt
++new file mode 100644
++index 0000000..1c49c0b
++--- /dev/null
+++++ b/20CSR140.txt
++@@ -0,0 +1,4 @@
+++Hello
+++Hey
+++Hi
+++Namaste
+diff --git a/neeraj.txt b/neeraj.txt
+index 8010c74..a5ecb19 100644
+--- a/neeraj.txt
++++ b/neeraj.txt
+@@ -1,3 +1,2 @@
+ Today is holiday
+ But git class is going on
+-Cat Exam on Saturday
+diff --git a/nisha.patch b/nisha.patch
+new file mode 100644
+index 0000000..60e5791
+--- /dev/null
++++ b/nisha.patch
+@@ -0,0 +1,39 @@
++diff --git a/20CSR153.txt b/20CSR153.txt
++deleted file mode 100644
++index c7cb703..0000000
++--- a/20CSR153.txt
+++++ /dev/null
++@@ -1,3 +0,0 @@
++-20CSR153
++-PRAVEEN P
++-KECS
++\ No newline at end of file
++diff --git a/neeraj.patch b/neeraj.patch
++deleted file mode 100644
++index 6ae176c..0000000
++--- a/neeraj.patch
+++++ /dev/null
++@@ -1,20 +0,0 @@
++-diff --git a/20CSR133.txt b/20CSR133.txt
++-deleted file mode 100644
++-index 52c9d7b..0000000
++---- a/20CSR133.txt
++-+++ /dev/null
++-@@ -1,4 +0,0 @@
++--git class is going on
++--hello
++--welcome
++--what are you doing?
++-diff --git a/20CSR140.txt b/20CSR140.txt
++-new file mode 100644
++-index 0000000..1c49c0b
++---- /dev/null
++-+++ b/20CSR140.txt
++-@@ -0,0 +1,4 @@
++-+Hello
++-+Hey
++-+Hi
++-+Namaste
++diff --git a/poorna.txt b/poorna.txt
++deleted file mode 100644
++index e69de29..0000000
+diff --git a/poorna.txt b/poorna.txt
+new file mode 100644
+index 0000000..e69de29
+diff --git a/praveen_1 b/praveen_1
+new file mode 100644
+index 0000000..e69de29
+diff --git a/praveen_1.txt b/praveen_1.txt
+new file mode 100644
+index 0000000..3e23ae4
+--- /dev/null
++++ b/praveen_1.txt
+@@ -0,0 +1,2 @@
++
++hello
