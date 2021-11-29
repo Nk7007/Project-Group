@@ -1,0 +1,20 @@
+diff --git a/20CSR133.txt b/20CSR133.txt
+deleted file mode 100644
+index 52c9d7b..0000000
+--- a/20CSR133.txt
++++ /dev/null
+@@ -1,4 +0,0 @@
+-git class is going on
+-hello
+-welcome
+-what are you doing?
+diff --git a/20CSR140.txt b/20CSR140.txt
+new file mode 100644
+index 0000000..1c49c0b
+--- /dev/null
++++ b/20CSR140.txt
+@@ -0,0 +1,4 @@
++Hello
++Hey
++Hi
++Namaste

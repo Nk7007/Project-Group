@@ -1,0 +1,29 @@
+diff --git a/.file.txt.swm b/.file.txt.swm
+new file mode 100644
+index 0000000..c3a5470
+Binary files /dev/null and b/.file.txt.swm differ
+diff --git a/.file.txt.swn b/.file.txt.swn
+new file mode 100644
+index 0000000..09ec3ea
+Binary files /dev/null and b/.file.txt.swn differ
+diff --git a/.file.txt.swo b/.file.txt.swo
+new file mode 100644
+index 0000000..cf16079
+Binary files /dev/null and b/.file.txt.swo differ
+diff --git a/.file.txt.swp b/.file.txt.swp
+new file mode 100644
+index 0000000..b80c995
+Binary files /dev/null and b/.file.txt.swp differ
+diff --git a/.navaneeth.txt.swp b/.navaneeth.txt.swp
+new file mode 100644
+index 0000000..eb37cb8
+Binary files /dev/null and b/.navaneeth.txt.swp differ
+diff --git a/file.txt b/file.txt
+new file mode 100644
+index 0000000..e69de29
+diff --git a/navaneeth.txt b/navaneeth.txt
+new file mode 100644
+index 0000000..e69de29
+diff --git a/poorna.txt b/poorna.txt
+new file mode 100644
+index 0000000..e69de29

@@ -1,0 +1,39 @@
+diff --git a/20CSR153.txt b/20CSR153.txt
+deleted file mode 100644
+index c7cb703..0000000
+--- a/20CSR153.txt
++++ /dev/null
+@@ -1,3 +0,0 @@
+-20CSR153
+-PRAVEEN P
+-KECS
+\ No newline at end of file
+diff --git a/neeraj.patch b/neeraj.patch
+deleted file mode 100644
+index 6ae176c..0000000
+--- a/neeraj.patch
++++ /dev/null
+@@ -1,20 +0,0 @@
+-diff --git a/20CSR133.txt b/20CSR133.txt
+-deleted file mode 100644
+-index 52c9d7b..0000000
+---- a/20CSR133.txt
+-+++ /dev/null
+-@@ -1,4 +0,0 @@
+--git class is going on
+--hello
+--welcome
+--what are you doing?
+-diff --git a/20CSR140.txt b/20CSR140.txt
+-new file mode 100644
+-index 0000000..1c49c0b
+---- /dev/null
+-+++ b/20CSR140.txt
+-@@ -0,0 +1,4 @@
+-+Hello
+-+Hey
+-+Hi
+-+Namaste
+diff --git a/poorna.txt b/poorna.txt
+deleted file mode 100644
+index e69de29..0000000
